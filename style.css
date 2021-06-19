@@ -1,0 +1,11 @@
+.blog-button {
+    background: linear-gradient(30deg, #f27322, #db6012), linear-gradient(0deg, #f27322, #db6012);
+    color: #ffffff;
+    border: none;
+    border-radius: none;
+}
+
+.img-card {
+    height: 20px;
+    width: 15px;
+}
